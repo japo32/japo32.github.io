@@ -1,6 +1,4 @@
-# Adrian Domingo
-
-![photo](res/pic.jpg)
+<img style="float: right;" src="res/pic.jpg"/>
 
 Auckland, New Zealand | +64212579384 | japo@japodomingo.com
 
