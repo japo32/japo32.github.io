@@ -1,9 +1,12 @@
-<img style="float: right;" src="res/pic.jpg"/>
+![Adrian](res/pic.jpg "Me")
 
-Auckland, New Zealand | +64212579384 | japo@japodomingo.com
+Auckland, New Zealand
+
++64212579384
+
+japo@japodomingo.com
 
 ## Senior Drupal Developer
-
 Drupal Developer with experience working on both backend, frontend, and building sites from the ground up. I've also worked with JQuery, AngularJS, Python, CSS, SCSS, Bootstrap, Docker, Vagrant, Git, Fabric, Ansible, Amazon S3. Postgresql, mysql, Bash, Linux, Gulp, Karma.
 
 I'm also handy with Photoshop and Graphic Design.
